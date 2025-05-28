@@ -15,8 +15,9 @@ Wall-E was designed to autonomously detect and avoid obstacles using a ultrasoni
 The ultrasonic sensor is used to detect obstacles at longer distances. It works by emitting high-frequency sound waves and measuring the time it takes for the echo to return after hitting an object. This allows the robot to calculate the distance to obstacles in its path with good accuracy. Using ultrasonic sensing helps the vehicle plan its movements early and avoid collisions with objects that are several centimeters or even meters away.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/92666389/194114378-d4b1af7c-6795-4833-9fe8-e5280fbf1c1a.png" alt="Ultrasonic-Sensor" />
+  <img src="https://github.com/user-attachments/assets/4d545f01-d28c-44c4-95ef-cd459f705697" alt="Ultrasonic-Sensor" />
 </p>
+
 
 ## IR infrared obstacle sensors
 For nearby obstacles, the vehicle relies on infrared (IR) sensors. These sensors emit infrared light and detect reflections from nearby surfaces, making them well-suited for short-range detection. IR sensors are ideal for quickly sensing walls, small objects, or sudden changes in terrain, such as the edge of a table. Their fast response time helps the vehicle make quick decisions in tight spaces where precision is critical.
