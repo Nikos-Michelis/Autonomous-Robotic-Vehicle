@@ -12,7 +12,7 @@ Wall-E was designed to autonomously detect and avoid obstacles using a ultrasoni
 
 # How it works
 ## Ultrasonic sensor
-The ultrasonic sensor is used to detect obstacles at longer distances. It works by emitting high-frequency sound waves and measuring the time it takes for the echo to return after hitting an object. This allows the robot to calculate the distance to obstacles in its path with good accuracy. Using ultrasonic sensing helps the vehicle plan its movements early and avoid collisions with objects that are several centimeters or even meters away.
+The ultrasonic sensor is used to detect obstacles at longer distances. It works by emitting high-frequency sound waves and measuring the time it takes for the echo to return after hitting an object. This allows the robot to calculate the distance to obstacles in its path with good accuracy. Using ultrasonic sensing helps the vehicle plan its movements early and avoid collisions with objects that are several centimeters away.
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/4d545f01-d28c-44c4-95ef-cd459f705697" alt="Ultrasonic-Sensor" />
